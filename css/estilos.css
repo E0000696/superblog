@@ -7,6 +7,16 @@ body
     margin: 0;
     padding: 0;
 }
+#logo
+{
+    width: 20px;
+    vertical-align: middle;
+}
+#parrafo
+{
+    color: white;
+    background-color: black;
+}
 
 #cabecera
 {
