@@ -8,6 +8,13 @@ body
     padding: 0;
 }
 
+#footer{
+    background: #777777;
+    color:white;
+    text-align: center;
+    padding: 1em;
+}
+
 #cabecera
 {
     background: #33A;
