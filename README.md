@@ -10,5 +10,6 @@ Un blog increíble para el[ curso de Git y Github](https://www.instagram.com/bal
 * Trucos muy locos del profesor
 * Creado por el grupo de Cap
 * Incluye ejemplos basicos
+* Disponioble para todas las edades
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO 
